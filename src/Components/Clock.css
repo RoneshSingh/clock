@@ -1,0 +1,10 @@
+.div {
+  align-items: "center";
+  font-size: x-large;
+  justify-content: center;
+  display: "flex";
+  height: auto;
+  width: fit-content;
+  margin: auto;
+  font-size: 1000%;
+}
